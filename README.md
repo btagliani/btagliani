@@ -4,5 +4,6 @@ _He who jumps into the void owes no explanation to those who stand and watch.⚡
 ## find me at
 
 * [email](mailto:bruno.tagliani@gmail.com)
-* [keybase.io/btagliani](https://keybase.io/btagliani)
-* [instagram.com/brunotagliani](https://instagram.com/brunotagliani)
+* [linkedin](https://www.linkedin.com/in/btagliani/)
+* [keybase](https://keybase.io/btagliani)
+* [instagram](https://instagram.com/brunotagliani)
