@@ -1,5 +1,8 @@
-**Now Playing** on Spotify
+# Bruno Tagliani
+_He who jumps into the void owes no explanation to those who stand and watch.⚡️_
 
-<a href="https://spotify-now-playing-pink.vercel.app/now-playing?open">
-    <img src="https://spotify-now-playing-pink.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
+## find me at
+
+* [email](mailto:bruno.tagliani@gmail.com)
+* [keybase.io/btagliani](https://keybase.io/btagliani)
+* [instagram.com/brunotagliani](https://instagram.com/brunotagliani)
